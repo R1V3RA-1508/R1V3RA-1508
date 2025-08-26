@@ -1,5 +1,5 @@
 ## Hi there 👋
-![https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white](google.com)
+https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white
 
 <!--
 **R1V3RA-1508/R1V3RA-1508** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
