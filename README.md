@@ -9,8 +9,7 @@
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ### I'm also like to do challenges by Frontend Mentor. I have they repositories, and they ends by '-main'.
-### Click to visit my FEM profile!
-[![FEM](https://www.frontendmentor.io/_next/image?url=%2Fstatic%2Fimages%2Flogo-desktop.svg&w=256&q=75)](https://www.frontendmentor.io/profile/R1V3RA-1508)
+[![FEM](https://www.frontendmentor.io/_next/image?url=%2Fstatic%2Fimages%2Flogo-desktop.svg&w=256&q=75)](https://www.frontendmentor.io/profile/R1V3RA-1508) - ### Click to visit my FEM profile!
 
 <!--
 **R1V3RA-1508/R1V3RA-1508** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
