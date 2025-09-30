@@ -7,4 +7,5 @@ Dependencies: niri, yambar, networkmanager_dmenu, alacritty, swww, fuzzel, pulse
 3. Put niri config to ~/.config/niri
 4. Put 320KG.jpg to your ~/
 5. Put alacritty config to ~/.config/alacritty
-6. replace "nik" in configs to your username
+6. Put text from 'My PS1' to your .bashrc or .zshrc (or other-shell-you-use.rc, xd)
+7. replace "nik" in configs to your username
