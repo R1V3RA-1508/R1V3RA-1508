@@ -1,3 +1,5 @@
+![](изображение.png)
+
 # This configs for PulseAudio, not Pipewire!
 
 Dependencies: niri, yambar, networkmanager_dmenu, alacritty, swww, rofi, pulseaudio, otf-font-awesome, noto-fonts-emoji, random nerd font
