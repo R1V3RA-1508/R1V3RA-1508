@@ -5,4 +5,7 @@ decorations="None"
 startup_mode="SimpleFullscreen"
 
 [colors.primary]
-background="#181818"
+background="#11111b"
+
+[font]
+normal={family='AdwaitaMono Nerd Font Propo', style='Regular'}

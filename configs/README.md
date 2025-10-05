@@ -1,11 +1,9 @@
 # This configs for PulseAudio, not Pipewire!
 
-Dependencies: niri, yambar, networkmanager_dmenu, alacritty, swww, fuzzel, pulseaudio, otf-font-awesome, noto-fonts-emoji
+Dependencies: niri, yambar, networkmanager_dmenu, alacritty, swww, rofi, pulseaudio, otf-font-awesome, noto-fonts-emoji, random nerd font
 
-1. Put power.sh to your home directory
-2. Put yambar config to ~/.config/yambar/
-3. Put niri config to ~/.config/niri
-4. Put 320KG.jpg to your ~/
-5. Put alacritty config to ~/.config/alacritty
-6. Put text from 'My PS1' to your .bashrc or .zshrc (or other-shell-you-use.rc, xd)
-7. replace "nik" in configs to your username
+1. Put powermenu.sh and powermenu-theme.rasi to your home directory
+2. Put dark-forest.jpg to your home directory
+3. Put text from 'My PS1' to your .bashrc or .zshrc (or other-shell-you-use.rc, xd)
+4. Replace "nik" in configs to your username
+5. Put rofi-power-menu to ~/.local/bin/
