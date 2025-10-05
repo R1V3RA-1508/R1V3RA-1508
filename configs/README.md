@@ -2,7 +2,7 @@
 
 # This configs for PulseAudio, not Pipewire!
 
-Dependencies: niri, yambar, networkmanager_dmenu, alacritty, swww, rofi, pulseaudio, otf-font-awesome, noto-fonts-emoji, random nerd font
+Dependencies: niri, yambar, networkmanager_dmenu, alacritty, swww, rofi, pulseaudio, otf-font-awesome, noto-fonts-emoji, AdwaitaMono Nerd Font
 
 1. Put powermenu.sh and powermenu-theme.rasi to your home directory
 2. Put dark-forest.jpg to your home directory
