@@ -11,7 +11,7 @@
 ### I'm also like to do challenges by Frontend Mentor. I have they repositories, and they ends by '-main'.
 [![FEM](https://www.frontendmentor.io/_next/image?url=%2Fstatic%2Fimages%2Flogo-desktop.svg&w=256&q=75)](https://www.frontendmentor.io/profile/R1V3RA-1508) - Click to visit my FEM profile!
 
-### I use arch btw. Check my configs for niri (wayland compositor)
+### I use arch btw. Check my [dotfiles](https://github.com/r1v3ra-1508/dotfiles)
 
 <!--
 **R1V3RA-1508/R1V3RA-1508** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
