@@ -1,7 +1,11 @@
 # Hi
 I'm Nikita, frontend developer from Belarus
 
-Contact me: [r1v3ra-1508@proton.me](mailto:r1v3ra-1508@proton.me)
+Contact me via: 
+- [![Proton Mail](https://img.shields.io/badge/proton-mail-1b1b1b?style=for-the-badge&logo=protonmail&label=Proton
+)](mailto:r1v3ra-1508@proton.me)
+- [![Telegram](https://img.shields.io/badge/telegram-1b1b1b?style=for-the-badge&logo=telegram
+)](https://t.me/sailex_x)
 
 # My skills:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
