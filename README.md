@@ -1,13 +1,34 @@
+# Hi
+I'm Nikita, frontend developer from Belarus
+
+Contact me via: 
+- [![Proton Mail](https://img.shields.io/badge/proton-mail-1b1b1b?style=for-the-badge&logo=protonmail&label=Proton
+)](mailto:r1v3ra-1508@proton.me)
+- [![Telegram](https://img.shields.io/badge/telegram-1b1b1b?style=for-the-badge&logo=telegram
+)](https://t.me/sailex_x)
+
 # My skills:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-23272f?style=for-the-badge&logo=react
+)
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-[![FEM](https://www.frontendmentor.io/_next/image?url=%2Fstatic%2Fimages%2Flogo-desktop.svg&w=256&q=75)](https://www.frontendmentor.io/profile/R1V3RA-1508) - Click to visit my FEM profile!
+![Arch Linux](https://img.shields.io/badge/archlinux-1a1b1b?style=for-the-badge&logo=archlinux
+)
+
+![Git](https://img.shields.io/badge/git-1b1b1b?style=for-the-badge&logo=git
+)
+----
+
+[![FEM](https://img.shields.io/badge/frontendmentor-1a1b1b?style=for-the-badge&logo=frontendmentor
+)](https://www.frontendmentor.io/profile/R1V3RA-1508) - My FrontendMentor profile
+
+----
 
 ### My [dotfiles](https://github.com/r1v3ra-1508/dotfiles)
 
