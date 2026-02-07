@@ -7,12 +7,14 @@ Contact me: [r1v3ra-1508@proton.me](mailto:r1v3ra-1508@proton.me)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/:badgeContent?style=for-the-badge&logo=react)
+![React]([https://img.shields.io/badge/:badgeContent?style=for-the-badge&logo=react](https://img.shields.io/badge/React-23272f?style=for-the-badge&logo=react
+))
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-[![FEM](https://www.frontendmentor.io/_next/image?url=%2Fstatic%2Fimages%2Flogo-desktop.svg&w=256&q=75)](https://www.frontendmentor.io/profile/R1V3RA-1508) - Click to visit my FEM profile!
+[![FEM](https://img.shields.io/badge/frontendmentor-1a1b1b?style=for-the-badge&logo=frontendmentor
+)](https://www.frontendmentor.io/profile/R1V3RA-1508) - My FrontendMentor profile
 
 ### My [dotfiles](https://github.com/r1v3ra-1508/dotfiles)
 
