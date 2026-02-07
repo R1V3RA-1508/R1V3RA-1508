@@ -14,8 +14,17 @@ Contact me: [r1v3ra-1508@proton.me](mailto:r1v3ra-1508@proton.me)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
+![Arch Linux](https://img.shields.io/badge/archlinux-1a1b1b?style=for-the-badge&logo=archlinux
+)
+
+![Git](https://img.shields.io/badge/git-1b1b1b?style=for-the-badge&logo=git
+)
+----
+
 [![FEM](https://img.shields.io/badge/frontendmentor-1a1b1b?style=for-the-badge&logo=frontendmentor
 )](https://www.frontendmentor.io/profile/R1V3RA-1508) - My FrontendMentor profile
+
+----
 
 ### My [dotfiles](https://github.com/r1v3ra-1508/dotfiles)
 
